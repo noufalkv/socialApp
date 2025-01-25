@@ -216,6 +216,10 @@
     {
       "path": "assets/fonts/Inter_28pt-ThinItalic.ttf",
       "sha1": "beed0d0fb7783d5da5d366036b5e481f895e1970"
+    },
+    {
+      "path": "assets/fonts/helper.js",
+      "sha1": "0890e2dfd498815b614f2e8715c6581e201f060a"
     }
   ]
 }
